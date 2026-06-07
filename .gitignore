@@ -1,8 +1,6 @@
-
-.env
 bin/
 out/
 .vscode/
 .DS_Store
 Thumbs.db
-
+.env
